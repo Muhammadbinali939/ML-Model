@@ -1,2 +1,1 @@
-Air Quality Index(AQI)-Model
-Azure Deployment
+Air Quality Index(AQI)-Model /  Deploying the model by Microsoft Azure 
